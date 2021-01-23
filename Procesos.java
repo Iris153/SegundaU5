@@ -1,7 +1,6 @@
 package u5reg;
 
 
-
 public class Procesos {
 
     public static void Radix(int arreglo[]) {
